@@ -6,4 +6,4 @@ headers = {
 }
 response = requests.get(apiUrl, headers=headers)
 filterOverview = json.loads(response.text)
-print(response.text)
+print(response.text) 
