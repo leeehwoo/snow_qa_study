@@ -1,2 +1,0 @@
-print("pypy")
-print("pypy")
