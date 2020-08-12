@@ -1,0 +1,7 @@
+class Progress Thread extends AsyncTask<<String, Integer, Integer> {
+
+
+
+}
+
+int value = 
